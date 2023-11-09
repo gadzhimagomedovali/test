@@ -1,4 +1,4 @@
 n = int(input())
-
-print(n**2)
+m = int(input())
+print(n**2+m)
 
